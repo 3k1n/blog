@@ -29,7 +29,7 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    hostname: 'https://ekn.me', // provide to enable sitemap and rss feed generation
+    //hostname: 'https://ekn.me', // provide to enable sitemap and rss feed generation
     siteName: 'ekn.me', // site name at navbar
     author: 'ekn.me', // author name at footer
     navbar: true,
