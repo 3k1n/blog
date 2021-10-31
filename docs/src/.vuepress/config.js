@@ -2,6 +2,7 @@ const { description } = require('../../package')
 
 module.exports = {
   base: "/blog/",
+  theme: "vuepress-theme-mini",
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
@@ -29,36 +30,20 @@ module.exports = {
    */
   themeConfig: {
     repo: '',
-    editLinks: false,
-    docsDir: '',
-    editLinkText: '',
-    lastUpdated: false,
+    siteName: 'ekn.me', // site name at navbar
+    author: 'ekn.me', // author name at footer
+    navbar: true,
     nav: [
       {
-        text: 'Guide',
-        link: '/guide/',
+        text: 'Home',
+        link: '/',
       },
+      { text: 'Archive', link: '/archive/' },      
       {
-        text: 'Config',
-        link: '/config/'
-      },
-      {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
-      }
-    ],
-    sidebar: {
-      '/guide/': [
-        {
-          title: 'Guide',
-          collapsable: false,
-          children: [
-            '',
-            'using-vue',
-          ]
-        }
-      ],
-    }
+        text: 'About',
+        link: '/about/'
+      }      
+    ]
   },
 
   /**
