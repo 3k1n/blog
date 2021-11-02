@@ -1,7 +1,6 @@
 const { description } = require('../../package')
 
 module.exports = {
-  base: "/blog/",
   theme: "vuepress-theme-mini",
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
