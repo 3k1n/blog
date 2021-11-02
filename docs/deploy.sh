@@ -10,7 +10,7 @@ npm run build
 cd src/.vuepress/dist
 
 # if you are deploying to a custom domain
-#echo 'www.ekn.me' > CNAME
+echo 'ekn.me' > CNAME
 
 git init
 git add -A
