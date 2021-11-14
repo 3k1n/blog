@@ -5,11 +5,11 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Vuepress Docs Boilerplate',
+  title: 'Web Log -  by ekn.me',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
-  description: description,
+  description: 'Philosophy of Web: Bitcoin, Lightning and the future of space & time',
 
   /**
    * Extra tags to be injected to the page HTML `<head>`
@@ -37,11 +37,14 @@ module.exports = {
         text: 'Home',
         link: '/',
       },
-      { text: 'Archive', link: '/archive/' },      
       {
         text: 'About',
         link: '/about/'
-      }      
+      },
+      {
+        text: 'Archive',
+        link: '/archive/'
+      },
     ]
   },
 

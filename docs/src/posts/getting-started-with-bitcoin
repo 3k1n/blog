@@ -1,0 +1,44 @@
+---
+date: 2021-11-02
+title: Getting startet with Bitcoin
+---
+
+Recently, I have [tweeted](https://twitter.com/ekn_me/status/1454552538552930309?ref_src=twsrc%5Etfw) about my favorite starting points with Bitcoin. Having a decent response by the Bitcoin Community I noticed that there could be a demand for this kind of information. I suppose that a lot of Bitcoiners have had similar difficulites of finding out where to start and can relate to my case. 
+
+This is why I would like to share more details about how to get started with Bitcoin. I claim that a good start depends very much on your own expectation and conception of the world. Consequently, 1) reflecting on my conception, 2) reevaluating my expectation and finally deep diving on Bitcoin constituted my roadmap into the ** Bitcoin Rabbit Hole**.
+
+# 1 Reflect on your conception
+
+As a matter of fact. the majority of society carries malformated concepts of Bitcoin that are extremely polarized. On the one side of the polarity there are hard sceptics that demonize Bitcoin as a snowball-schemed, energy destroying bubble that is going to burst any moment. On the other side there are (profithungry opportunists + imitating innovators) that misconceive Bitcoin as less developed versions of other "Cryptos" and hence degrade Bitcoin as an inferior asset/opportunity.
+
+Admittedly, my pre-conception of Bitcoin has been a mix of both sides of the spectrum. I can confirm a widely shared observation that several attempts are needed until a curious individual can overcome its two great psychocological barriers of Modernity: 1) "Fear, Uncertainty and Doubt (FUD)" and 2) "Fear Of Missing Out (FOMO)". After overcoming these barriers the amount of malformatted concepts in your head will decrease over time. In this unbiased state of mind it will be easier to follow the abstract and revolutionary ideas that are underlying Bitcoin and its technology.
+
+This process of reflection might seem complicated, since a change of concept includes many variables, such as your concepts of money, economy, government i.e. the world. As beautifully drawn on the following graphic this process is not difficult at all. First you have to ask yourself what your current concept of Bitcoin is. Then you check within this concept if it includes any FUD or FOMO. If the answer is yes, you should get into HODL mode. HODL stands for a lot of things, but mostly for a calm, rational mind that is able to overcome any waves of irrationality or confusion. Do your research and find a way to optimize your concept. As soon as the answer to the question is more no than yes (because it can never be zer0 FUD or FOMO), you can continue to the next step. But whenever you feel like there is too much no, never hesitate to come back here.
+
+```flowchart
+st=>start: Start
+e=>end: End
+op1=>operation: What is my concept of [Bitcoin, Money, Economy, .. ] ? 
+sub1=>subroutine: My Subroutine
+cond1=>condition: FUD or FOMO?
+para1=>parallel: HODL
+
+st->op1->cond1
+cond1(yes, right)->para1
+cond1(no)->e
+
+para1(path1, top)->op1
+```
+
+To get a good overview of all topics and create a feeling of how much FUD lives within yourself, a first recommendation would be to read the free [21 Lessons](21lessons.com) by derGigi. Additionally, you can find a lot of additional writings and podcasts on his website. Furthermore, [The Bitcoin Standard]() by Saiiiiiii is a good lecture to gather a broader knowledge. Finally, if you still have some FUD inside of you, try to end it [here](https://endthefud.org/).
+
+# 2 Focus on your objectives
+
+
+# 3 Get in touch with Bitcoin
+
+as a curious non-techy
+as a saving person
+as an advanced user
+as a developer
+
